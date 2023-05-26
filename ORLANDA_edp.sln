@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ORLANDA_edp", "ORLANDA_edp\ORLANDA_edp.vbproj", "{C5BEF968-0CB3-47F8-875E-F1B09588842D}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Point-of-Sale System", "Point-of-Sale System\Point-of-Sale System.vdproj", "{94F1FC04-11A3-43E9-BBB6-BCDA5482D5EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{C5BEF968-0CB3-47F8-875E-F1B09588842D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5BEF968-0CB3-47F8-875E-F1B09588842D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5BEF968-0CB3-47F8-875E-F1B09588842D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F1FC04-11A3-43E9-BBB6-BCDA5482D5EA}.Debug|Any CPU.ActiveCfg = Debug
+		{94F1FC04-11A3-43E9-BBB6-BCDA5482D5EA}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
